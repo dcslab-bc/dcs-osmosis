@@ -1,4 +1,4 @@
-# Osmosis
+# Osmosis from tag v15.1.0
 
 ![Banner!](assets/banner.png)
 
